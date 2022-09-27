@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "tasks": {
+    "year": [],
+    "quarter": [],
+    "month": [],
+    "week": [],
+    "day": ["daytask"]
+  },
+  "archive": {
+      "year": "没有归档"
+  }
+}
